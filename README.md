@@ -10,7 +10,8 @@
 
 `ATTPFROMLST.lsp` is an enhanced AutoLISP application that **imports and inserts AutoCAD blocks with attributes and optional visibility states from a structured CSV or TXT file**.
 
-Originally developed by [Thomas Gail Haws](https://autocad.fandom.com/wiki/Attribute_Importer_(AutoLISP_application)), this version incorporates numerous **enhancements** for stability, compatibility, and flexibility in real-world engineering workflows.
+Originally developed by [Thomas Gail Haws](https://autocad.fandom.com/wiki/Attribute_Importer_(AutoLISP_application)), this version retains the spirit of open software while integrating **enhancements** for stability, compatibility, and flexibility in real-world engineering workflows.
+
 
 ---
 
